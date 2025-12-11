@@ -20,7 +20,7 @@ const KnownFontNameSchema = z.enum(
     "Itim",
     "Courier",
     "Comfortaa",
-    "Coming_Soon",
+    "Squiggles",
     "Atkinson_Hyperlegible",
     "Lato",
     "Lalezar",
